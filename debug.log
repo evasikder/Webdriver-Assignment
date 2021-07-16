@@ -1,0 +1,12 @@
+[0107/202113.961:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0107/202516.821:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0125/000354.791:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0125/201243.364:ERROR:process_info.cc(359)] UncheckedAllocate
+[0125/201243.422:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\eva07\AppData\Local\Temp\scoped_dir15084_1231683060\Crashpad\attachments\b3c907c5-8f67-4243-96e1-73a07018e90b: The system cannot find the path specified. (0x3)
+[0125/201244.221:ERROR:process_info.cc(359)] UncheckedAllocate
+[0125/201247.546:ERROR:process_info.cc(359)] UncheckedAllocate
+[0125/201255.366:ERROR:process_info.cc(359)] UncheckedAllocate
+[0125/201255.389:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\eva07\AppData\Local\Temp\scoped_dir6744_1014633220\Crashpad\attachments\bdcf05b8-9a4d-420a-9ac1-9d9132f69b75: The system cannot find the path specified. (0x3)
+[0125/203026.614:ERROR:process_info.cc(359)] UncheckedAllocate
+[0125/203026.626:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\eva07\AppData\Local\Temp\scoped_dir11796_53849980\Crashpad\attachments\0c8c0fff-cbff-4550-be68-6044e1a2265c: The system cannot find the path specified. (0x3)
+[0126/000317.669:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\eva07\AppData\Local\Temp\scoped_dir8052_542141508\Crashpad\attachments\f1b7a826-d5e4-4a43-979b-8737d2b3a06b: The system cannot find the path specified. (0x3)
