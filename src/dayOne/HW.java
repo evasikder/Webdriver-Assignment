@@ -99,5 +99,13 @@ public class HW {
 	       
 		
 	}
+	
+	
+	public static void evaNme() {
+		
+		System.out.println( "BLAH BLAH BLAH!!!" );
+		
+	}
+	
 }
 			

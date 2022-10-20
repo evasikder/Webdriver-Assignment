@@ -10,11 +10,10 @@ public class TASK1 {
 
 	public static void main(String[] args) {
 		
-	 System.setProperty("webdriver.gecko.driver", "C:\\Users\\eva07\\Downloads\\geckodriver.exe");
-	 //System.setProperty("webdriver.chrome.driver", "C:\\Users\\eva07\\Downloads\\chromedriver.exe");
-	 //WebDriver driver = new ChromeDriver(); //launch FF
+     System.setProperty("webdriver.chrome.driver", "C:\\Users\\eva07\\eclipse-workspace\\Selenium Project\\Chromedriver\\chromedrivernew.exe");
+	  WebDriver driver = new ChromeDriver(); //launch FF
 	 
-	 WebDriver driver = new FirefoxDriver(); //launch FF
+	 //WebDriver driver = new FirefoxDriver(); //launch FF
 	 
 	 driver.get("http://www.google.com"); //enter URL
 	 
@@ -37,6 +36,11 @@ public class TASK1 {
 	 
 	driver.get("http://login.salesforce.com");
 	driver.findElement(By.id("username")).sendKeys("hello");
+	
+	HW eva = new HW();
+	eva.evaNme();
+	
+	
 	
 	}
 	
